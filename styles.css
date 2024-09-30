@@ -1,4 +1,7 @@
 @font-face {
-    font-family: wonga;
-    src: url("ffont.woff") format("woff");
+    font-family: 'wonga';
+    src: url('font.woff') format('woff2'),
+         url('font.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }
